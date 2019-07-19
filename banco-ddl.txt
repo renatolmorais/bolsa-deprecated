@@ -1,0 +1,14 @@
+OPER
+usuario data papel ordem quantidade valor
+
+CARTEIRA
+usuario ativo qtd
+
+USUARIO
+nome_usuario senha data_registro
+
+LOG
+usuario data hora operacao
+
+PAPEL
+codigo preco
